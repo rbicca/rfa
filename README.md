@@ -1,3 +1,8 @@
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+https://www.robinwieruch.de/react-context-api/
+https://www.robinwieruch.de/react-firebase-realtime-database/
+https://blog.bitsrc.io/building-a-todo-app-in-react-with-firebase-and-redux-ba3ab53a671b
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
